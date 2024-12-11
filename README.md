@@ -37,25 +37,25 @@
 
 ### 安装依赖
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 启动开发服务器
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### 构建生产版本
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ## 项目结构
 
-\`\`\`
+```
 antd-demo/
 ├── src/                    # 源代码目录
 │   ├── App.tsx            # 主应用组件
@@ -66,7 +66,7 @@ antd-demo/
 ├── tsconfig.json          # TypeScript 配置
 ├── package.json           # 项目依赖
 └── README.md              # 项目文档
-\`\`\`
+```
 
 ## 主要功能模块
 
